@@ -1,16 +1,34 @@
-### Hi there 👋
+### Ola!! eu sou o Roger!! :sunglasses:
 
-<!--
-**Roger-Robertt/Roger-Robertt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:small_orange_diamond: Sou programdor front-end, atualmente estou aprendendo e criando projetos com: :memo:
+<br>
+<br>
 
-Here are some ideas to get you started:
+   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-HTML"/>
+ 
+   - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="logo-CSS"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-JavaScript"/>
+<br>
+
+
+Meus contatos: :iphone:
+ 
+ <p>
+    <a href="www.linkedin.com/in/roger-robert">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedIn"/>
+    </a>
+    
+   <a href="rogerrobertsouzadossantos@gmail.com">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logo-Gmail"/>
+   </a>
+</p>
+<br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roger-Robertt&show_icons=true&theme=transparent)
+
+
+  
+ 
+   
