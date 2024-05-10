@@ -15,7 +15,7 @@
 Meus contatos: :iphone:
  
  <p>
-    <a href="www.linkedin.com/in/roger-robert">
+    <a href="https://www.linkedin.com/in/roger-robert/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedIn"/>
     </a>
     
